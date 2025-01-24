@@ -7,11 +7,11 @@ The aim of the project is to isolate, sequence and assemble genomes of actinomyc
 
 In addition to the lab work, the course will involve the following analysis work:
 - Genome assembly
-	- Using Flye (and perhaps Trycycler) to generate genome assemblies [insert links]
-	- Annotating assemblies using Bakta [insert link]
+	- Using Flye (and perhaps Trycycler) to generate genome assemblies
+	- Annotating assemblies using Bakta
 	- Evaluating the quality of assemblies using BANDAGE and BUSCO
 - Structuring analysis work using scripts
-	- Navigating a terminal and automating small tasks using BASH
+	- Navigating a terminal and automating small tasks using BASH (BASHCRAWL could be a fun intro)
 	- Plotting using R/Python
 
 # Relevant Literature
